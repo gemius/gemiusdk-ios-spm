@@ -1,0 +1,6 @@
+framework module GemiusSDKtvOS {
+  umbrella header "GemiusSDKtvOS.h"
+  export *
+
+  module * { export * }
+}
